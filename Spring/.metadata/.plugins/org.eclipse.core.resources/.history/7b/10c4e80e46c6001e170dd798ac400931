@@ -1,0 +1,22 @@
+package com.info;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestParam;
+
+
+@Controller
+public class BankingService {
+	
+	String str="Message";
+	
+	@RequestMapping("/hello")
+	public ModelAndView showMessage(
+			@RequestParam(value = "name", required = false, 
+			defaultValue = "World") String name) {
+ 
+		ModelAndView mv = new ModelAndView("helloWorld");
+		mv.addObject("message", message);
+		mv.addObject("name", name);
+		return mv;
+	}
+}

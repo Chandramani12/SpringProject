@@ -1,0 +1,7 @@
+package com.example.servingwebcontent;
+
+public class Greeting extends GreetingController {
+	
+
+}
+public record Greeting(long id, String content) {}

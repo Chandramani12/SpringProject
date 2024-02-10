@@ -1,0 +1,4 @@
+<factorypath>
+    <factorypathentry kind="PLUGIN" id="org.eclipse.jst.ws.annotations.core" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="EXTJAR" id="D:\Software\apache-tomcat-10.1.12-windows-x64\apache-tomcat-10.1.12\lib\servlet-api.jar" enabled="true" runInBatchMode="false"/>
+</factorypath>

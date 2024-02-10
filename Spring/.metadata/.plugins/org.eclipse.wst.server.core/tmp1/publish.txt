@@ -1,0 +1,7 @@
+#Tomcat publish data
+#Thu Feb 08 12:10:56 IST 2024
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\rames\\.m2\\repository\\org\\apache\\tomcat\\embed\\tomcat-embed-el\\10.1.4\\tomcat-embed-el-10.1.4.jar=D\:\\Software\\apache-tomcat-10.1.12-windows-x64\\apache-tomcat-10.1.12\\wtpwebapps\\Test\\WEB-INF\\lib\\tomcat-embed-el-10.1.4.jar
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\rames\\.m2\\repository\\org\\apache\\tomcat\\embed\\tomcat-embed-websocket\\10.1.4\\tomcat-embed-websocket-10.1.4.jar=D\:\\Software\\apache-tomcat-10.1.12-windows-x64\\apache-tomcat-10.1.12\\wtpwebapps\\Test\\WEB-INF\\lib\\tomcat-embed-websocket-10.1.4.jar
+org.eclipse.jst.j2ee.server\:Data=D\:\\Software\\apache-tomcat-10.1.12-windows-x64\\apache-tomcat-10.1.12\\wtpwebapps\\Test\\WEB-INF\\lib\\Data-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:Test=D\:\\Software\\apache-tomcat-10.1.12-windows-x64\\apache-tomcat-10.1.12\\wtpwebapps\\Test
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\rames\\.m2\\repository\\org\\springframework\\spring-web\\6.0.3\\spring-web-6.0.3.jar=D\:\\Software\\apache-tomcat-10.1.12-windows-x64\\apache-tomcat-10.1.12\\wtpwebapps\\Test\\WEB-INF\\lib\\spring-web-6.0.3.jar
